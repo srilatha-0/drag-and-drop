@@ -1,0 +1,34 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background : linear-gradient(rgb(248, 235, 235),pink
+    );
+}
+
+.box1,.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    margin : 30px;
+    background-color: grey;
+    width : 800px;
+    height: 500px;
+    background-color: #0b032d;
+    border-radius: 20px;
+    background-color: rgba(231, 134, 134, 0.444);
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin : 20px;
+    width:200px;
+    height: 200px;
+    background-color: #74546a ;
+    border-radius : 20px;
+    color: white;
+    background-color:rgba(4, 33, 57, 0.559);
+}
